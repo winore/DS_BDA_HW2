@@ -10,7 +10,7 @@
    `-t zoltannz/hadoop-ubuntu:2.8.1`
    
 * `Запуск контейнера с именем  hadoop-psql с портами`
-* В новом терминале в директории hw2/scripts выполнить `./startHadoopContainer.sh hadoop-psql` 
+* В новом терминале в директории DS_BDA_HW2/scripts выполнить `./startHadoopContainer.sh hadoop-psql` 
 
 ### Успешные тесты
 ![Tests](report/tests.jpg)
