@@ -13,8 +13,8 @@
 * В новом терминале в директории DS_BDA_HW2/scripts выполнить `./startHadoopContainer.sh hadoop-psql` 
 
 ### Успешные тесты
-![Tests](report/tests.jpg)
+![Tests](screenshots/tests.jpg)
 
 ### Успешная работа
-![Job](report/ResultJob.jpg)
+![Job](screenshots/ResultJob.jpg)
 
