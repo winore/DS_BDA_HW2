@@ -1,3 +1,10 @@
+## Бизнес логика
+
+* `Program which calculate linux syslog priority (is given by 7 – debug, 6 – info, 5 – notice, 4 - warning, warn, 3 - err, error, 2 - crit, 1 - alert,  0 - emerg, panic) count by hours `
+
+* `Ingest technology: Sqoop importer`
+* `Storage technology: HDFS`
+* `Computation technology: Spark RDD`
 ## Как запустить приложение
 
 * ` docker pull zoltannz/hadoop-ubuntu:2.8.1` `(Загрузка образа из регистра)`
