@@ -4,7 +4,7 @@
 
 * `Ingest technology: Sqoop importer`
 * `Storage technology: HDFS`
-* `Computation technology: Spark RDD`
+* `Computation technology: Spark`
 ## Как запустить приложение
 
 * ` docker pull zoltannz/hadoop-ubuntu:2.8.1` `(Загрузка образа из регистра)`
